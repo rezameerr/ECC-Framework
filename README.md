@@ -5,7 +5,7 @@ Algorithms and Protocols Implemented in the Project (OOP C++ and C):
 
 1- ECC (Elliptic Curve Math, ECC, Domain Parameters, Standard Curves, Key Pair Generation)
 
-2- ECDHE (Elliptic Curve Diffie-Hellman [ephemeral], Shared Secret Generation)
+2- ECDHE (Elliptic Curve Diffie-Hellman [Ephemeral], Shared Secret Generation)
 
 3- ECDSA (Elliptic Curve Digital Signature Algorithm with Arbitrary Hash Function. e.g. BLAKE2b)
 
