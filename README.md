@@ -1,13 +1,15 @@
 # ECC-Framework
 Elliptic Curve Cryptography (ECC) Framework
 
+
+
 Algorithms and protocols implemented in the project:
 
 1- ECC (Elliptic Curve Math, ECC, Domain Parameters, Standard Curves, Key Pair Generation)
 
 2- ECDHE (Elliptic Curve Diffie-Hellman [ephemeral], Shared Secret Generation)
 
-3- ECDSA
+3- ECDSA (Elliptic Curve Digital Signature Algorithm with Arbitrary Hash Function. e.g. BLAKE2b)
 
 4- EC ElGamal (EC ElGamal Encryption and EC ElGamal Signature)
 
