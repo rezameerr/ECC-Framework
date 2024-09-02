@@ -11,7 +11,7 @@ Algorithms and Protocols Implemented in the Project (OOP C++ and C):
 
 4- EC ElGamal (EC ElGamal Encryption and EC ElGamal Signature)
 
-5- ECIES (Elliptic Curve Integrated Encryption Scheme, Key Derivation Functions [KDF] based on Argon2id, MAC, Twofish Symmetric Encryption)
+5- ECIES (Elliptic Curve Integrated Encryption Scheme, Key Derivation Function [KDF] based on Argon2id, MAC, Twofish Symmetric Encryption)
 
 6- HMAC (BLAKE2b, SHA-3 Family, SHA-2 Family)
 
