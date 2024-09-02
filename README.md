@@ -23,7 +23,7 @@ Libraries and Codes Used in the Project:
 
 2- Givaro
 
-3- OpenSSL (Only Hash Functions e.g. SHA)
+3- OpenSSL (Only Hash Functions e.g. SHA) (BLAKE2 and Argon2 are computed independently)
 
 4- Argon2
 
