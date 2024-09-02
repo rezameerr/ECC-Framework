@@ -1,4 +1,4 @@
-# ECC-Framework
+# ECC Framework
 # Elliptic Curve Cryptography (ECC) Framework
 
 Algorithms and Protocols Implemented in the Project:
