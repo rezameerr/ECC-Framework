@@ -1,7 +1,7 @@
 # ECC-Framework
 # Elliptic Curve Cryptography (ECC) Framework
 
-Algorithms and protocols implemented in the project:
+Algorithms and Protocols Implemented in the Project:
 
 1- ECC (Elliptic Curve Math, ECC, Domain Parameters, Standard Curves, Key Pair Generation)
 
