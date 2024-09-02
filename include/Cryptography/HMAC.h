@@ -18,8 +18,8 @@ public:
         SHA_512,
         SHA_384,
         SHA_256,
-        //SHA1,
-        //MD5,
+        //SHA1, // Insecure - Not Recommended
+        //MD5, // Insecure - Not Recommended
     };
 
     struct HMACHashFunctionEx
