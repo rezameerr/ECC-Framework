@@ -17,7 +17,7 @@ Algorithms and protocols implemented in the project:
 
 -------------------------------
 
-Used Libraries & Codes:
+Libraries and Codes Used in the Project:
 
 1- GMP
 
