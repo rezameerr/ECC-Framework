@@ -13,7 +13,7 @@ Algorithms and Protocols Implemented in the Project (OOP C++ and C):
 
 5- ECIES (Elliptic Curve Integrated Encryption Scheme, Key Derivation Functions [KDF] based on Argon2id, MAC, Twofish Symmetric Encryption)
 
-6- HMAC (BLAKE2b, SHA2 Family, SHA-3 Family)
+6- HMAC (BLAKE2b, SHA-3 Family, SHA-2 Family)
 
 -------------------------------
 
