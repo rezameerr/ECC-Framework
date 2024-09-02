@@ -62,7 +62,7 @@ HMAC::HMACHashFunctionEx HMAC::getHMACHashFunctionEx(HMAC::HMAC_HASH_FUNCTIONS h
         hmacHashFunctionEx.hashSize = 32;
         break;
     
-    /*    
+    /* Insecure - Not Recommended
     case HMAC::HMAC_HASH_FUNCTIONS::SHA1:
         hmacHashFunctionEx.name = "SHA1";
         hmacHashFunctionEx.blockSize = 64;
@@ -75,7 +75,7 @@ HMAC::HMACHashFunctionEx HMAC::getHMACHashFunctionEx(HMAC::HMAC_HASH_FUNCTIONS h
         hmacHashFunctionEx.hashSize = 16;
         break;
     */
-   
+
     default:
         hmacHashFunctionEx.name = "BLAKE2b";
         hmacHashFunctionEx.blockSize = 64;
